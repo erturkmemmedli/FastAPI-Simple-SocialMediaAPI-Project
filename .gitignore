@@ -2,8 +2,9 @@
 *.pyc
 __pycache__
 *.__pycache__
-.env
+storeapi/.env
 *.db
+*.db-journal
 .venv
 .vscode/
 *.png
